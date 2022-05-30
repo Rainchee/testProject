@@ -3,3 +3,6 @@ index.css
 
 #忽略test目录下所有的文件
 test/
+
+#忽略md文件
+学习git.md
